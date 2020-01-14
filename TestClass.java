@@ -7,5 +7,6 @@ public class TestClass {
 			// git commit -a -m "text commit"
 			// git log - > commit 번호 6자리 확인 가능
 			// git checkout commit 번호 6자리 입력 -> 그 commit으로 돌아감
+			// http://gitignore.io/ 	.gitignore 파일 생성하기
 	}
 }
