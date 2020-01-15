@@ -2,7 +2,7 @@ package test;
 
 public class TestClass {
 	public static void main(String[] args) {
-			System.out.println("Hi EVERYONE!");
+			System.out.println("Hi!");
 			System.out.println("My name is Knock Knock!");
 			// git commit -a -m "text commit"
 			// git log - > commit 번호 6자리 확인 가능
